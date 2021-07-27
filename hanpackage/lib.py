@@ -1,2 +1,4 @@
 def try_me():
-    print('try han')
+    msg = 'try han'
+    print(msg)
+    return len(msg)
